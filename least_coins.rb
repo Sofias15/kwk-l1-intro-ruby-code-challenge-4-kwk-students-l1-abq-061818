@@ -50,4 +50,4 @@ puts change
 return change 
 
 end 
-least_coins(333)
+least_coins(87)
